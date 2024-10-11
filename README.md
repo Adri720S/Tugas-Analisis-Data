@@ -4,10 +4,11 @@ Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in St
 ## Deskripsi
 Proyek ini bertujuan untuk menganalisis data pada E-Commerce Public Dataset dan mencari wawasan tentang data.
 ## Struktur Direktori
-- /dashboard: Direktori ini berisi main.py yang digunakan untuk membuat dashboard hasil analisis data.
-- Proyek_Analisis_Data_E_Commerce.ipynb: File ini yang digunakan untuk melakukan analisis data.
+- /dashboard: Direktori ini berisi streamlit.py yang digunakan untuk membuat dashboard hasil analisis data.
+- Proyek_Analisis_Data.ipynb: File ini yang digunakan untuk melakukan analisis data.
 ## Instalasi
-
+- !pip install pipreqs
+- !pip install streamlit
+  di google colab yang saya hubungkan ke google drive lalu hubungkan ke github
 ## Penggunaan
-1. cd dicoding/dashboard/
-streamlit run main.py
+dari github saya hubungkan ke streamlit. Dapat dilihat hasilnya pada link berikut:
